@@ -17,9 +17,6 @@ A minimalist, aesthetic clock and calendar web app featuring real-time updates a
 ## 🚀 Live Demo
 https://sarishmaburela.github.io/cloud-eleven/
 
-## 📸 Preview
-(Add a screenshot here later)
-
 ## 💡 Inspiration
 Designed to create a calm, aesthetic experience while subtly integrating “angel number” moments into daily life.
 
